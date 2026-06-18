@@ -75,7 +75,7 @@ I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinsiva007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinsiva007&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsiva007&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 
