@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me
+## 🎯 About Me
 
 > *"Engineering smarter roads, one frame at a time."*
 
