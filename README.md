@@ -75,29 +75,13 @@ I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinsiva007&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinsiva007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsiva007&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashwinsiva007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e4a&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinsivaram007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwinsiva007)
-[![Live App](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dashcam-app.vercel.app)
-
-</div>
 
 ---
 
