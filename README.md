@@ -6,7 +6,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Road+Safety+Systems+🚗;Computer+Vision+%7C+Flutter+%7C+Python+%7C+React;Turning+Data+into+Intelligent+Solutions+📊;Real-time+Driver+Monitoring+%26+Detection+🤖)](https://git.io/typing-svg)
+### Hello I am Ashwin 👋
+
+**Welcome to my profile**
+
+*B.Tech AIDS @ SIET*
 
 </div>
 
