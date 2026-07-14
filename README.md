@@ -22,7 +22,6 @@ I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at t
 - 🌱 Learning: **Deep Learning**, **Edge AI Deployment**, **Flutter Advanced**
 - 💡 Interests: Computer Vision, Real-time AI, Mobile Dev, Data Science
 - 📫 Reach me: **ashwinsivaram007@gmail.com**
-- 🚀 Live Project: [dashcam-app.vercel.app](https://dashcam-app.vercel.app)
 
 ---
 
