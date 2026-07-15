@@ -64,6 +64,7 @@ I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at t
 | 🤖 [**AI-Powered Dashcam**](https://github.com/ashwinsiva007/ai-powered-dashcam) | Real-time dual-camera road safety system — detects drowsiness, lane risks, and obstacles with SOS alerts | Python · OpenCV · AI | 🟢 Active |
 | 📱 [**Dashcam Mobile App**](https://github.com/ashwinsiva007/final) | Flutter mobile client for the dashcam ecosystem with live feed & alert notifications | Flutter · Dart | 🟢 Active |
 | 🌐 [**Dashcam Web App**](https://github.com/ashwinsiva007/app) | Full-stack React/Express web interface deployed on Vercel | React · Node.js · Vercel | 🔵 Deployed |
+| 🌊 [**HabitFlow**](https://github.com/ashwinsiva007/habitflow-) | Gamified habit-tracking ecosystem with level/XP progression, analytics dashboard, and push notifications | Next.js · Firebase · Capacitor | 🟢 Active |
 | 📊 [**Data Science EDA**](https://github.com/ashwinsiva007/Thiranex-data-science-Assignment) | Exploratory Data Analysis on Titanic & Hotel Bookings datasets with Pandas, Matplotlib & forecasting | Python · Pandas · Jupyter | ✅ Complete |
 
 </div>
@@ -74,9 +75,9 @@ I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at t
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinsiva007&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=ashwinsiva007&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsiva007&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ashwinsiva007&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 
 </div>
 
