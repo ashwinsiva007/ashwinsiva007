@@ -18,7 +18,6 @@
 
 I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at the intersection of **AI**, **Computer Vision**, and **Full-Stack Development**. My flagship project is a real-time, AI-powered dual-camera dashcam system that detects driver drowsiness, distractions, lane risks, and obstacles — bringing road safety to the next level.
 
-- 🔭 Currently building: **AI-Powered Dashcam Road Safety Ecosystem**
 - 🌱 Learning: **Deep Learning**, **Edge AI Deployment**, **Flutter Advanced**
 - 💡 Interests: Computer Vision, Real-time AI, Mobile Dev, Data Science
 - 📫 Reach me: **ashwinsivaram007@gmail.com**
