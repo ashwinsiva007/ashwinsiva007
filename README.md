@@ -61,8 +61,9 @@ I'm **Ashwin Sivaram**, a passionate developer building intelligent systems at t
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | 🤖 [**AI-Powered Dashcam**](https://github.com/ashwinsiva007/ai-powered-dashcam) | Real-time dual-camera road safety system — detects drowsiness, lane risks, and obstacles with SOS alerts | Python · OpenCV · AI | 🟢 Active |
-| 📱 [**Dashcam Mobile App**](https://github.com/ashwinsiva007/final) | Flutter mobile client for the dashcam ecosystem with live feed & alert notifications | Flutter · Dart | 🟢 Active |
-| 🌐 [**Dashcam Web App**](https://github.com/ashwinsiva007/app) | Full-stack React/Express web interface deployed on Vercel | React · Node.js · Vercel | 🔵 Deployed |
+| 💼 [**SkillPulse**](https://github.com/ashwinsiva007/skill_pulse) | AI-powered career platform for skill analysis, ATS-friendly resume generation, and job/hackathon matching | Next.js · TypeScript · AI | 🔵 Deployed |
+| 🔍 [**ScamLens**](https://github.com/ashwinsiva007/scamlense_ai) | Multilingual scam checker detecting fraud in screenshots & docs using Gemma 4 with EN/TA/HI explanations | Gemma 4 · FastAPI · Next.js | 🔵 Deployed |
+| 🏥 **HealthVerse** | AI healthcare ecosystem connecting patients, doctors, and hospitals with telemedicine, emergency SOS & health records | React · FastAPI · AI | 🟡 Ongoing |
 | 🌊 [**HabitFlow**](https://github.com/ashwinsiva007/habitflow-) | Gamified habit-tracking ecosystem with level/XP progression, analytics dashboard, and push notifications | Next.js · Firebase · Capacitor | 🟢 Active |
 | 📊 [**Data Science EDA**](https://github.com/ashwinsiva007/Thiranex-data-science-Assignment) | Exploratory Data Analysis on Titanic & Hotel Bookings datasets with Pandas, Matplotlib & forecasting | Python · Pandas · Jupyter | ✅ Complete |
 
